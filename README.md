@@ -1,4 +1,4 @@
-# Explainable-AI
+# Hung-yi Lee Machine Learning course HW4
 Using Saliency map, filter explanation, lime to explain a food classification model. This dataset is collected from Kaggle 'Food-11 image dataset':
 
 https://www.kaggle.com/datasets/trolukovich/food11-image-dataset 
